@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TidoMash
-- 👀 I’m interested in Machine learning and AI
-- 🌱 I’m currently learning python and SQL 
+- 👋 Hi, I’m Bohlale MAshalaba
+- 👀 I have a passion for Data in all forms
+- 🌱 I’m currently learning Data Engineering and Django 
 
 <!---
 TidoMash/TidoMash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
