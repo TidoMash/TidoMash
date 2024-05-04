@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bohlale MAshalaba
+- 👋 Hi, I’m Bohlale Mashalaba
 - 👀 I have a passion for Data in all forms
 - 🌱 I’m currently learning Data Engineering and Django 
 
